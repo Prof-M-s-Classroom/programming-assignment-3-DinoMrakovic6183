@@ -23,7 +23,7 @@ When the heap is finally empty, it prints all the MST edges and the total cost.
 - heap.h / heap.cpp
 - main.cpp (unchanged)
 - README.md
-
+     
 ## How to Compile and Run
 This project was developed and tested in CLion.  
 Run directly from the IDE.
