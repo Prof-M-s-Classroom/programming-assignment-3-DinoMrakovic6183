@@ -1,6 +1,5 @@
 #ifndef GRAPH_H
 #define GRAPH_H
-
 #include <climits>
 #include <iostream>
 #include "heap.h"
